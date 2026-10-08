@@ -1,5 +1,10 @@
 # AI Skills Repository
 
+# 💫 About Me khan somrith:
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Eed7EX3eYG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khansomrith) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KhanSomrith) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KhanSomrith) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@khansomrith) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCGVpz8QxoTH5iP38oeeA-1w)  
+
 A curated collection of reusable, domain-specific AI instruction modules designed to help AI agents operate with clarity, structure, and engineering discipline.
 
 ## Overview
@@ -93,9 +98,9 @@ ai-skills/
 
 | Skill | Category | Version | Status | Description |
 |---|---|---:|---|---|
-| [web-development](ai-skills/skills/web-development/SKILL.md) | Software Engineering | 1.0.0 | Production | End-to-end guidance for building professional websites and web applications with quality, security, and maintainability in mind. |
-| [pcb-engineering](ai-skills/skills/pcb-engineering/SKILL.md) | Electronics Engineering | 1.0.0 | Production | Domain-specific workflow for PCB design, validation, manufacturability, and engineering honesty in hardware projects. |
-| [electronics](ai-skills/skills/electronics/README.md) | Electronics Engineering | — | Available | Supporting guidance for electronics-focused work, design review, and domain-specific engineering decisions. |
+| [web-development](skills/web-development/SKILL.md) | Software Engineering | 1.0.0 | Production | End-to-end guidance for building professional websites and web applications with quality, security, and maintainability in mind. |
+| [pcb-engineering](skills/pcb-engineering/SKILL.md) | Electronics Engineering | 1.0.0 | Production | Domain-specific workflow for PCB design, validation, manufacturability, and engineering honesty in hardware projects. |
+| [electronics](skills/electronics/README.md) | Electronics Engineering | — | Available | Supporting guidance for electronics-focused work, design review, and domain-specific engineering decisions. |
 
 ## Typical workflow
 
@@ -131,7 +136,7 @@ This lifecycle keeps agent behavior consistent and predictable across different 
 
 To create a new skill:
 
-1. start from the template in [ai-skills/templates/SKILL_TEMPLATE.md](ai-skills/templates/SKILL_TEMPLATE.md)
+1. start from the template in [templates/SKILL_TEMPLATE.md](templates/SKILL_TEMPLATE.md)
 2. add the required metadata and activation keywords
 3. define the skill's domain, purpose, and boundaries
 4. include workflows, standards, and review criteria
@@ -140,11 +145,11 @@ To create a new skill:
 
 ## Documentation
 
-- [Skill Authoring Guide](ai-skills/docs/skill-authoring.md) — how to create and validate skill modules
-- [Skill Selection Guide](ai-skills/docs/skill-selection.md) — how agents discover and compose skills
-- [Architecture](ai-skills/docs/architecture.md) — repository design and system principles
-- [Skill Template](ai-skills/templates/SKILL_TEMPLATE.md) — base template for writing a new skill
-- [Project Skill Template](ai-skills/templates/PROJECT_SKILL_TEMPLATE.md) — guidance for multi-skill coordination
+- [Skill Authoring Guide](docs/skill-authoring.md) — how to create and validate skill modules
+- [Skill Selection Guide](docs/skill-selection.md) — how agents discover and compose skills
+- [Architecture](docs/architecture.md) — repository design and system principles
+- [Skill Template](templates/SKILL_TEMPLATE.md) — base template for writing a new skill
+- [Project Skill Template](templates/PROJECT_SKILL_TEMPLATE.md) — guidance for multi-skill coordination
 
 ## Planned growth
 
